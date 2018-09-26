@@ -76,6 +76,7 @@ let NERDTreeShowHidden=1
 let g:ycm_show_diagnostics_ui = 0
 :let g:NERDTreeWinSize=20
 let g:go_version_warning = 0
+let g:prettier#config#semi = 'false'
 let g:user_emmet_settings = {
 \  'html': {
 \    'snippets': {
